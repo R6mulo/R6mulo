@@ -3,21 +3,28 @@
 Welcome to my GitHub profile!
 
 I'm a **programming student** passionate about technology, game development, and creativity.  
-While I currently work in a different professional field, I'm dedicating my time and energy to mastering code and building meaningful projects—especially in the areas of **modding** and **game development**.
+Although I currently work in a different professional field, I dedicate my free time to learning how to code and building personal projects—especially in the world of **modding** and **game development**.
 
-🎓 I'm currently studying at **Oracle Next Education (ONE)**, a program by Oracle in partnership with Alura, focused on empowering new developers through quality education and real-world challenges.
+🎓 I'm currently studying at **Oracle Next Education (ONE)**, a program by Oracle in partnership with Alura, designed to empower new developers through practical challenges and quality education.
 
-🛠️ Here on GitHub, you'll find some of my experiments, personal projects, and game mods—like **[Vassal Barons](https://github.com/R6mulo/VassalBarons-Mod)**, a mod for Mount & Blade II: Bannerlord that lets you create vassal factions from your own family members.
+🛠️ On this profile, you’ll find some of my experiments, personal projects, and game mods—such as **[Vassal Barons](https://github.com/R6mulo/VassalBarons-Mod)**, a mod for Mount & Blade II: Bannerlord that lets you create vassal factions from your own family members.
 
 ---
 
 ## ☕ Support my work
 
-If you like what I’m doing and want to help me keep creating, learning, and building, consider supporting me:
+If you like what I’m doing and want to help me keep creating, learning, and growing, consider supporting me:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/r6rorschach)
 
-Any contribution helps and is greatly appreciated! 💙
+Any contribution is deeply appreciated and helps me stay motivated! 💙
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=github_dark&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=github_dark)
 
 ---
 
