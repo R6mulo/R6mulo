@@ -25,37 +25,50 @@ Thanks for stopping by!
 
 ---
 
-## 🛠️ Skills & Technologies
+## 📫 Contacts
 
-- **Python** — scripting, automation, and prototyping
-- **JavaScript** — web projects & creative experiments
-- **AI** — exploring artificial intelligence and its applications
-- **GameMaker** — game development & rapid prototyping
-- **Game Design** — mechanics, balance, and player experience
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](r6rorschach.dev@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/romulo-chaves-31a083211)  
 
 ---
 
-## 🎮 Featured Project
+## 💼 Office Skills
 
-**Vassal Barons**  
-A Bannerlord mod that brings new depth and strategy to the game.  
-[Check it out on Nexus Mods](https://www.nexusmods.com/mountandblade2bannerlord/mods/8579)
-
----
-
-## 🤓 Fun Facts & Interests
-
-- Gaming and modding are my creative outlets
-- I love watching series and finding inspiration in storytelling
-- Always learning something new in programming and game design
-- Enthusiastic about building cool stuff and connecting with others who share my passion
+![Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Word](https://img.shields.io/badge/-Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ---
 
-## 🌐 Connect with Me
+## 🧠 In Learning
 
-- [LinkedIn: Romulo Chaves](https://www.linkedin.com/in/romulo-chaves-31a083211/)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![GameMaker](https://img.shields.io/badge/-GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
 
 ---
+
+## 🎮 Hobbies & Entertainment
+
+![PlayStation](https://img.shields.io/badge/-PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
+![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![GTA V](https://img.shields.io/badge/-GTA_V-2E2E2E?style=for-the-badge&logo=rockstar-games&logoColor=white)
+![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Netflix](https://img.shields.io/badge/-Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![Prime Video](https://img.shields.io/badge/-Prime_Video-0F79AF?style=for-the-badge&logo=amazon-prime-video&logoColor=white)
+![HBO Max](https://img.shields.io/badge/-HBO_Max-5A2D81?style=for-the-badge&logo=hbomax&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r6mulo&show_icons=true&theme=github_dark&hide_title=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r6mulo&layout=compact&theme=github_dark)
 
 *Thanks for visiting! Feel free to check out my projects, star what you like, or reach out if you want to collaborate.*
