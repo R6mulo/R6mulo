@@ -7,7 +7,7 @@ While I currently work in a different professional field, I'm dedicating my time
 
 🎓 I'm currently studying at **Oracle Next Education (ONE)**, a program by Oracle in partnership with Alura, focused on empowering new developers through quality education and real-world challenges.
 
-🛠️ Here on GitHub, you'll find some of my experiments, personal projects, and game mods—like **[Vassal Barons](https://github.com/R6mulo/VassalBarons-Mod)**, a mod for Mount & Blade II: Bannerlord that lets you create vassal factions from your own family members.
+🛠️ Here on GitHub, you'll find some of my experiments, personal projects, and game mods—like **[Vassal Barons]([https://github.com/R6mulo/VassalBarons-Mod](https://www.nexusmods.com/mountandblade2bannerlord/mods/8579?tab=files&__cf_chl_tk=pN0.KNmVbnhYnvho.dirghd1FaHoUQoGonk3gEdr58U-1758060398-1.0.1.1-_y6PKdBmqBCrocSd5LabmZk.EZOUj3hFb60LaEv.oBk))**, a mod for Mount & Blade II: Bannerlord that lets you create vassal factions from your own family members.
 
 ---
 
